@@ -9,7 +9,7 @@ The purpose of this page is to deliver content on my experince so far as a Fulls
 
 - `/index.html` Is where the HTML code has been constructed and stored. 
 - `/style.css` Is where the CSS code has been constructed and stored. 
-- `/images` Is where the images used for the website have been stored. 
+- `/assets` Is where the images and documents used for the website have been stored. 
 
 ## Technology used
 
