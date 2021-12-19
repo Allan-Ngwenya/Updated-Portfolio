@@ -26,9 +26,9 @@ The purpose of this page is to deliver content on my experince so far as a Fulls
 
 ## Hosting
 
-| Project                            | Updated-Portfolio URL                                    |
-|------------------------------------|--------------------------------------------------|
-| Mbongeni Allan Ngwenya - Portfolio | <>                                               |
+| Project                            | Updated-Portfolio URL                                |
+|------------------------------------|------------------------------------------------------|
+| Mbongeni Allan Ngwenya - Portfolio | <https://allan-ngwenya.github.io/Updated-Portfolio/> |
 
 
 ## Contributers
