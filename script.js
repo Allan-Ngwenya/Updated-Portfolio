@@ -31,3 +31,12 @@ cancelBtn.onclick = function () {
 	body.style.overflow = "auto";
 	scrollBtn.style.pointerEvents = "auto";
 }
+
+let navLinks = document.querySelectorAll(".menu li a");
+for (var i = 0; i < navLinks.length; i++) {
+	navLinks[i].addEventListener("click", function () {
+		navBar.classList.remove("active");
+		menuBtn.style.opacity = "1";
+		menuBtn.style.pointerEvents = "auto";
+	});
+}
